@@ -4,13 +4,13 @@ repo: qualytics-status # The name of this repository
 
 sites:
   - name: Qualytics Demo UI
-    url: https://demo.qualytics.io/
+    url: https://demo.qualytics.io
   - name: Qualytics Demo API
-    url: https://demo.qualytics.io/api/
+    url: https://demo.qualytics.io/api/docs
   - name: Qualytics Artifactory
-    url: https://artifactory.qualytics.io/
+    url: https://artifactory.qualytics.io
   - name: Qualytics ArgoCD
-    url: https://argocd.qualytics.io/
+    url: https://argocd.qualytics.io
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
