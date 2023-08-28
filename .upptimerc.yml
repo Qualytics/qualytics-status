@@ -19,6 +19,7 @@ status-website:
   # baseUrl: /your-repo-name
   logoUrl: https://qualytics-resources.s3.amazonaws.com/qualytics-logo-mark-blue.svg
   name: Qualytics
+  introTitle: "**Qualytics Status** uptime monitor and status page"
   theme: night
   navbar:
     - title: Status
