@@ -4,7 +4,7 @@
     "url": "https://demo.qualytics.io",
     "icon": "https://icons.duckduckgo.com/ip3/demo.qualytics.io.ico",
     "slug": "qualytics-demo-ui",
-    "status": "up",
+    "status": "down",
     "uptime": "99.86%",
     "uptimeDay": "98.93%",
     "uptimeWeek": "99.85%",
@@ -16,6 +16,7 @@
     "timeMonth": 252,
     "timeYear": 250,
     "dailyMinutesDown": {
+      "2023-09-30": 0,
       "2023-09-29": 15,
       "2023-09-08": 9,
       "2023-09-06": 40
@@ -26,9 +27,9 @@
     "url": "https://demo.qualytics.io/api/docs",
     "icon": "https://icons.duckduckgo.com/ip3/demo.qualytics.io.ico",
     "slug": "qualytics-demo-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "98.96%",
+    "uptimeDay": "98.95%",
     "uptimeWeek": "99.85%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.95%",
@@ -38,6 +39,7 @@
     "timeMonth": 51,
     "timeYear": 42,
     "dailyMinutesDown": {
+      "2023-09-30": 0,
       "2023-09-29": 15,
       "2023-09-14": 8
     }
