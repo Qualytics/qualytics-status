@@ -45,7 +45,7 @@
     "url": "https://artifactory.qualytics.io",
     "icon": "https://icons.duckduckgo.com/ip3/artifactory.qualytics.io.ico",
     "slug": "qualytics-artifactory",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
     "uptimeDay": "98.79%",
     "uptimeWeek": "99.83%",
