@@ -1,5 +1,50 @@
 [
   {
+    "name": "Qualytics Artifactory",
+    "url": "https://artifactory.qualytics.io",
+    "icon": "https://icons.duckduckgo.com/ip3/artifactory.qualytics.io.ico",
+    "slug": "qualytics-artifactory",
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "99.97%",
+    "time": 256,
+    "timeDay": 201,
+    "timeWeek": 248,
+    "timeMonth": 238,
+    "timeYear": 256,
+    "dailyMinutesDown": {
+      "2023-11-15": 10,
+      "2023-11-02": 25,
+      "2023-10-02": 25
+    }
+  },
+  {
+    "name": "Qualytics ArgoCD",
+    "url": "https://argocd.qualytics.io",
+    "icon": "https://icons.duckduckgo.com/ip3/argocd.qualytics.io.ico",
+    "slug": "qualytics-argo-cd",
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "99.97%",
+    "time": 253,
+    "timeDay": 172,
+    "timeWeek": 730,
+    "timeMonth": 371,
+    "timeYear": 253,
+    "dailyMinutesDown": {
+      "2023-11-15": 11,
+      "2023-11-06": 15,
+      "2023-10-02": 7,
+      "2023-08-29": 14
+    }
+  },
+  {
     "name": "Qualytics Demo UI",
     "url": "https://demo.qualytics.io",
     "icon": "https://icons.duckduckgo.com/ip3/demo.qualytics.io.ico",
@@ -10,11 +55,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.98%",
     "uptimeYear": "99.96%",
-    "time": 271,
-    "timeDay": 81,
-    "timeWeek": 236,
-    "timeMonth": 219,
-    "timeYear": 271,
+    "time": 270,
+    "timeDay": 207,
+    "timeWeek": 226,
+    "timeMonth": 218,
+    "timeYear": 270,
     "dailyMinutesDown": {
       "2023-12-08": 7,
       "2023-10-27": 8,
@@ -35,8 +80,8 @@
     "uptimeMonth": "99.98%",
     "uptimeYear": "99.97%",
     "time": 36,
-    "timeDay": 12,
-    "timeWeek": 43,
+    "timeDay": 10,
+    "timeWeek": 31,
     "timeMonth": 32,
     "timeYear": 36,
     "dailyMinutesDown": {
@@ -45,51 +90,6 @@
       "2023-10-23": 23,
       "2023-10-17": 12,
       "2023-09-14": 8
-    }
-  },
-  {
-    "name": "Qualytics Artifactory",
-    "url": "https://artifactory.qualytics.io",
-    "icon": "https://icons.duckduckgo.com/ip3/artifactory.qualytics.io.ico",
-    "slug": "qualytics-artifactory",
-    "status": "up",
-    "uptime": "99.97%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.97%",
-    "time": 257,
-    "timeDay": 81,
-    "timeWeek": 274,
-    "timeMonth": 236,
-    "timeYear": 257,
-    "dailyMinutesDown": {
-      "2023-11-15": 10,
-      "2023-11-02": 25,
-      "2023-10-02": 25
-    }
-  },
-  {
-    "name": "Qualytics ArgoCD",
-    "url": "https://argocd.qualytics.io",
-    "icon": "https://icons.duckduckgo.com/ip3/argocd.qualytics.io.ico",
-    "slug": "qualytics-argo-cd",
-    "status": "up",
-    "uptime": "99.97%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.97%",
-    "time": 254,
-    "timeDay": 236,
-    "timeWeek": 840,
-    "timeMonth": 378,
-    "timeYear": 254,
-    "dailyMinutesDown": {
-      "2023-11-15": 11,
-      "2023-11-06": 15,
-      "2023-10-02": 7,
-      "2023-08-29": 14
     }
   }
 ]
