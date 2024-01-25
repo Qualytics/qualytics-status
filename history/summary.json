@@ -4,7 +4,7 @@
     "url": "https://artifactory.qualytics.io",
     "icon": "https://icons.duckduckgo.com/ip3/artifactory.qualytics.io.ico",
     "slug": "qualytics-artifactory",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 273,
     "timeYear": 260,
     "dailyMinutesDown": {
+      "2024-01-25": 0,
       "2023-11-15": 10,
       "2023-11-02": 25,
       "2023-10-02": 25
