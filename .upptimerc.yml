@@ -3,6 +3,10 @@ owner: qualytics # Your GitHub organization or username, where this repository l
 repo: qualytics-status # The name of this repository
 
 sites:
+  - name: Qualytics Website
+    url: https://qualytics.ai
+  - name: Qualytics User Guide
+    url: https://userguide.qualytics.ai
   - name: Qualytics Artifactory
     url: https://artifactory.qualytics.io
   - name: Qualytics ArgoCD
