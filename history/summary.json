@@ -22,19 +22,19 @@
     "url": "https://userguide.qualytics.ai",
     "icon": "https://icons.duckduckgo.com/ip3/userguide.qualytics.ai.ico",
     "slug": "qualytics-user-guide",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 166,
-    "timeDay": 166,
-    "timeWeek": 166,
-    "timeMonth": 166,
-    "timeYear": 166,
+    "status": "up",
+    "uptime": "97.32%",
+    "uptimeDay": "97.32%",
+    "uptimeWeek": "97.32%",
+    "uptimeMonth": "97.32%",
+    "uptimeYear": "97.32%",
+    "time": 208,
+    "timeDay": 208,
+    "timeWeek": 208,
+    "timeMonth": 208,
+    "timeYear": 208,
     "dailyMinutesDown": {
-      "2024-05-25": 0
+      "2024-05-25": 27
     }
   },
   {
