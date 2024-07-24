@@ -4,7 +4,7 @@
     "url": "https://qualytics.ai",
     "icon": "https://icons.duckduckgo.com/ip3/qualytics.ai.ico",
     "slug": "qualytics-website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 390,
     "timeMonth": 399,
     "timeYear": 474,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-07-24": 0
+    }
   },
   {
     "name": "Qualytics User Guide",
