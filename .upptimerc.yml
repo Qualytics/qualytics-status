@@ -6,7 +6,7 @@ sites:
   - name: Qualytics Website
     url: https://qualytics.ai
   - name: Qualytics User Guide
-    url: https://userguide.qualytics.ai
+    url: https://userguide.qualytics.io
   - name: Qualytics Artifactory
     url: https://artifactory.qualytics.io
   - name: Qualytics ArgoCD
