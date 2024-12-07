@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 356,
-    "timeDay": 284,
-    "timeWeek": 251,
-    "timeMonth": 220,
-    "timeYear": 356,
+    "time": 355,
+    "timeDay": 149,
+    "timeWeek": 240,
+    "timeMonth": 215,
+    "timeYear": 355,
     "dailyMinutesDown": {
       "2024-07-24": 20
     }
@@ -25,15 +25,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/userguide.qualytics.io.ico",
     "slug": "qualytics-user-guide",
     "status": "up",
-    "uptime": "95.31%",
+    "uptime": "95.33%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "95.31%",
+    "uptimeYear": "95.33%",
     "time": 294,
-    "timeDay": 287,
-    "timeWeek": 277,
-    "timeMonth": 284,
+    "timeDay": 230,
+    "timeWeek": 265,
+    "timeMonth": 285,
     "timeYear": 294,
     "dailyMinutesDown": {
       "2024-08-07": 1166,
@@ -61,10 +61,10 @@
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.82%",
     "time": 293,
-    "timeDay": 313,
-    "timeWeek": 328,
-    "timeMonth": 330,
-    "timeYear": 303,
+    "timeDay": 342,
+    "timeWeek": 307,
+    "timeMonth": 332,
+    "timeYear": 304,
     "dailyMinutesDown": {
       "2024-12-03": 15,
       "2024-07-28": 7,
@@ -86,10 +86,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 251,
-    "timeDay": 265,
-    "timeWeek": 268,
-    "timeMonth": 268,
+    "time": 252,
+    "timeDay": 145,
+    "timeWeek": 240,
+    "timeMonth": 261,
     "timeYear": 260,
     "dailyMinutesDown": {
       "2024-10-09": 10,
@@ -105,14 +105,14 @@
     "slug": "qualytics-demo-ui",
     "status": "up",
     "uptime": "99.79%",
-    "uptimeDay": "99.31%",
-    "uptimeWeek": "99.68%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.75%",
     "uptimeMonth": "98.40%",
     "uptimeYear": "99.74%",
     "time": 256,
-    "timeDay": 319,
-    "timeWeek": 268,
-    "timeMonth": 273,
+    "timeDay": 230,
+    "timeWeek": 255,
+    "timeMonth": 272,
     "timeYear": 250,
     "dailyMinutesDown": {
       "2024-12-05": 10,
@@ -183,8 +183,7 @@
       "2024-06-07": 7,
       "2024-05-23": 7,
       "2024-03-06": 8,
-      "2024-02-29": 10,
-      "2023-12-08": 7
+      "2024-02-29": 10
     }
   },
   {
@@ -194,14 +193,14 @@
     "slug": "qualytics-demo-api",
     "status": "up",
     "uptime": "99.87%",
-    "uptimeDay": "99.34%",
-    "uptimeWeek": "99.70%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.76%",
     "uptimeMonth": "99.73%",
     "uptimeYear": "99.85%",
     "time": 37,
-    "timeDay": 44,
-    "timeWeek": 38,
-    "timeMonth": 40,
+    "timeDay": 23,
+    "timeWeek": 29,
+    "timeMonth": 39,
     "timeYear": 37,
     "dailyMinutesDown": {
       "2024-12-05": 10,
@@ -277,8 +276,7 @@
       "2024-02-29": 10,
       "2024-02-28": 8,
       "2024-02-19": 8,
-      "2024-01-28": 15,
-      "2023-12-08": 7
+      "2024-01-28": 15
     }
   }
 ]
